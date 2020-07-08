@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Eu sou a ~~evelew~~ Evellyn, trabalho com Frontend faz 6 anos e me arrisco no backend as vezes.
 
-Atualmente eu tô trabalhando na Red Ventures e morando em São Paulo.
+Atualmente eu tô trabalhando na [Red Ventures](https://www.redventures.com/) e morando em São Paulo.
 
 De vez em quando posto algum artigo no [meu site](https://evellynlima.com.br/) e tô sempre de olho no [twitter](https://twitter.com/eveleww).
 
