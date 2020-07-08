@@ -1,4 +1,4 @@
-### Hi there 👋
+### Oie 👋
 
 <!--
 **evelew/evelew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Eu sou a ~~evelew~~ Evellyn, trabalho com Frontend faz um tempo e me arrisco no backend de vez em quando.
+Atualmente eu tô trabalhando na Red Ventures e morando em São Paulo.
+
+De vez em quando posto algum artigo no [meu site](https://evellynlima.com.br/) e tô sempre de olho no [twitter](https://twitter.com/eveleww).
+
+:v: :beers:
