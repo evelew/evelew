@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Eu sou a ~~evelew~~ Evellyn, trabalho com Frontend faz 6 anos e me arrisco no backend as vezes.
+Eu sou a ~~evelew~~ Evellyn, trabalho com Frontend faz 7 anos e me arrisco no backend as vezes.
 
 Atualmente eu tô trabalhando na [Red Ventures](https://www.redventures.com/) e morando em São Paulo.
 
