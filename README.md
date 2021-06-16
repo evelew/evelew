@@ -1,4 +1,4 @@
-### Oie 👋
+#### Hello 👋
 
 <!--
 **evelew/evelew** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,10 +15,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Eu sou a ~~evelew~~ Evellyn, trabalho com Frontend faz 7 anos e me arrisco no backend as vezes.
+My name is Evellyn, I work with frontend development since 2014 and I write backend code sometimes.
 
-Atualmente eu tô trabalhando na [Red Ventures](https://www.redventures.com/) e morando em São Paulo.
+- 👩‍🏭 I’m currently working on [Red Ventures](https://www.redventures.com/)
+- 🏠 I'm living in São Paulo - Brazil
+- 💻 Sometimes I write on [my blog](https://evellynlima.com.br/)
+- 🐦 You can find me on [twitter](https://twitter.com/eveleww)
+- ⚡ I'm not an indie hacker yet but I'm trying to create something cool
 
-De vez em quando posto algum artigo no [meu site](https://evellynlima.com.br/) e tô sempre de olho no [twitter](https://twitter.com/eveleww).
-
-:v: :beers:
+Cheers :v: :beers:
