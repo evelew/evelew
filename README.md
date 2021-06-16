@@ -13,8 +13,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![banner](https://user-images.githubusercontent.com/17098111/122304291-5c803d80-cedb-11eb-8ace-03e58a10a6de.png)
 
+![banner](https://user-images.githubusercontent.com/17098111/122304454-a49f6000-cedb-11eb-891a-b03e6f72e8ba.png)
 
 I work with frontend development since 2014 and I write backend code sometimes.
 
