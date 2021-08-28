@@ -13,7 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-
 ![banner](https://user-images.githubusercontent.com/17098111/122304454-a49f6000-cedb-11eb-891a-b03e6f72e8ba.png)
 
 I work with frontend development since 2014 and I write backend code sometimes.
@@ -23,5 +22,10 @@ I work with frontend development since 2014 and I write backend code sometimes.
 - 💻 Sometimes I write on [my blog](https://evellynlima.com.br/)
 - 🐦 You can find me on [twitter](https://twitter.com/eveleww)
 - ⚡ I'm not an indie hacker yet but I'm trying to create something cool
+
+📕 Latest Blog Posts (pt BR)
+
+<!-- BLOG:START -->
+<!-- BLOG:END -->
 
 Cheers :v: :beers:
