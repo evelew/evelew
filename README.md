@@ -26,11 +26,11 @@ I work with frontend development since 2014 and I write backend code sometimes.
 📕 Latest Blog Posts (pt BR)
 
 <!-- BLOG:START -->
+- [Criando atalhos para os comandos do git](https://evellynlima.com.br/criando-atalhos-para-os-comandos-do-git/)
 - [App em Ionic + API em microsserviços rodando no Docker](https://evellynlima.com.br/app-em-ionic-com-api-em-microservicos-rodando-no-docker/)
 - [Refatorar X Refazer: O que considerar antes de tomar essa decisão](https://evellynlima.com.br/refatorar-x-refazer/)
 - [Como eu entrei na área de frontend](https://evellynlima.com.br/como-eu-entrei-na-area-de-frontend/)
 - [CSS ::first-letter](https://evellynlima.com.br/primeira-letra-em-maiusculo-com-css/)
-- [Como rodar scripts paralelamente](https://evellynlima.com.br/como-rodar-scripts-paralelamente/)
 <!-- BLOG:END -->
 
 Cheers :v: :beers:
