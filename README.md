@@ -13,9 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![banner](https://user-images.githubusercontent.com/17098111/122304454-a49f6000-cedb-11eb-891a-b03e6f72e8ba.png)
-
-I work with frontend development since 2014 and I write backend code sometimes.
+Hi, I'm Evellyn and I work with frontend development since 2014.
 
 - 🏠 I'm living in São Paulo - Brazil
 - 💻 Sometimes I write on [my blog](https://evellynlima.com.br/)
