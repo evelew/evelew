@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 I work with frontend development since 2014 and I write backend code sometimes.
 
-- 👩‍🏭 I’m currently working on [Red Ventures](https://www.redventures.com/)
 - 🏠 I'm living in São Paulo - Brazil
 - 💻 Sometimes I write on [my blog](https://evellynlima.com.br/)
 - 🐦 You can find me on [twitter](https://twitter.com/eveleww)
