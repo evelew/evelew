@@ -17,8 +17,6 @@ Hi, I'm Evellyn and I work with frontend development since 2014.
 
 - 🏠 I'm living in São Paulo - Brazil
 - 💻 Sometimes I write on [my blog](https://evellynlima.com.br/)
-- 🐦 You can find me on [twitter](https://twitter.com/eveleww)
-- ⚡ I'm not an indie hacker yet but I'm trying to create something cool
 
 📕 Latest Blog Posts (pt BR)
 
