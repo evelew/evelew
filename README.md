@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 
 Hi, I'm Evellyn and I work with frontend development since 2014.
 
-- 🏠 I'm living in São Paulo - Brazil
+- 🏠 I'm living in Curitiba - Brazil
 - 💻 Sometimes I write on [my blog](https://evellynlima.com.br/)
 
 📕 Latest Blog Posts (pt BR)
