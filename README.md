@@ -16,16 +16,16 @@ Here are some ideas to get you started:
 Hi, I'm Evellyn and I work with frontend development since 2014.
 
 - 🏠 I'm living in Curitiba - Brazil
-- 💻 Sometimes I write on [my blog](https://evellynlima.com.br/)
+- 💻 Sometimes I write on [my blog](https://evellynlima.com)
 
 📕 Latest Blog Posts (pt BR)
 
 <!-- BLOG:START -->
-- [Retrospectiva 2021](https://evellynlima.com.br/retrospectiva-2021/)
-- [Recomendação: 3 podcasts de tecnologia que mais ouço](https://evellynlima.com.br/recomendacao-3-podcasts-de-tecnologia-que-mais-ouco/)
-- [Resolvendo a questão 06 do Code Your Way 2021](https://evellynlima.com.br/resolvendo-a-questao-06-do-code-your-way-2021/)
-- [Criando atalhos para os comandos do git](https://evellynlima.com.br/criando-atalhos-para-os-comandos-do-git/)
-- [App em Ionic + API em microsserviços rodando no Docker](https://evellynlima.com.br/app-em-ionic-com-api-em-microservicos-rodando-no-docker/)
+- [Retrospectiva 2021]([https://evellynlima.com/](https://evellynlima.com/blog)retrospectiva-2021/)
+- [Recomendação: 3 podcasts de tecnologia que mais ouço](https://evellynlima.com/blog/recomendacao-3-podcasts-de-tecnologia-que-mais-ouco/)
+- [Resolvendo a questão 06 do Code Your Way 2021](https://evellynlima.com/blog/resolvendo-a-questao-06-do-code-your-way-2021/)
+- [Criando atalhos para os comandos do git](https://evellynlima.com/blog/criando-atalhos-para-os-comandos-do-git/)
+- [App em Ionic + API em microsserviços rodando no Docker](https://evellynlima.com/blog/app-em-ionic-com-api-em-microservicos-rodando-no-docker/)
 <!-- BLOG:END -->
 
 Cheers :v: :beers:
