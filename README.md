@@ -21,11 +21,8 @@ Hi, I'm Evellyn and I work with frontend development since 2014.
 📕 Latest Blog Posts (pt BR)
 
 <!-- BLOG:START -->
-- [Retrospectiva 2021]([https://evellynlima.com/](https://evellynlima.com/blog)retrospectiva-2021/)
-- [Recomendação: 3 podcasts de tecnologia que mais ouço](https://evellynlima.com/blog/recomendacao-3-podcasts-de-tecnologia-que-mais-ouco/)
-- [Resolvendo a questão 06 do Code Your Way 2021](https://evellynlima.com/blog/resolvendo-a-questao-06-do-code-your-way-2021/)
-- [Criando atalhos para os comandos do git](https://evellynlima.com/blog/criando-atalhos-para-os-comandos-do-git/)
-- [App em Ionic + API em microsserviços rodando no Docker](https://evellynlima.com/blog/app-em-ionic-com-api-em-microservicos-rodando-no-docker/)
+- [I created an app to recommend you one song per day](https://evellynlima.com/blog/listen-this-music-today/)
+- [I rewrote the Code in the Dark editor with Vue](https://evellynlima.com/blog/i-rewrote-the-code-in-the-dark-editor-with-vue/)
 <!-- BLOG:END -->
 
 Cheers :v: :beers:
