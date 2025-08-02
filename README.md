@@ -13,12 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Hi, I'm Evellyn and I work with frontend development since 2014.
+Hi, I'm Evellyn, and I have been working with frontend development since 2014.
 
 - 🏠 I'm living in Curitiba - Brazil
 - 💻 Sometimes I write on [my blog](https://evellynlima.com)
 
-📕 Latest Blog Posts (pt BR)
+📕 Latest Blog Posts
 
 <!-- BLOG:START -->
 - [I created an app to recommend you one song per day](https://evellynlima.com/blog/listen-this-music-today/)
